@@ -1,10 +1,8 @@
 <h2 align="center">Oiie! 👋<br>Seja bem-vindo(a) ao meu GitHub.</h2>
 
-####
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monicatavares5&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+
 
 ###
 
